@@ -1,0 +1,12 @@
+*
+
+!.gitignore
+!.editorconfig
+!.eslintrc.json
+!.stylelintrc.json
+!README.md
+!index.html
+
+!css/
+!img/
+!js/
