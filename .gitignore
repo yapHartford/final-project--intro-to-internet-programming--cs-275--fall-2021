@@ -4,7 +4,7 @@
 !.editorconfig
 !.eslintrc.json
 !.stylelintrc.json
-!.bablerc
+!.babelrc
 !README.md
 !index.html
 !gulpfile.js
