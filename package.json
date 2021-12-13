@@ -1,0 +1,47 @@
+{
+  "name": "final-project--intro-to-internet-programming--cs-275--fall-2021",
+  "version": "1.0.0",
+  "description": "Slideshow Carousel",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/code-warrior/final-project--intro-to-internet-programming--cs-275--fall-2021"
+  },
+  "keywords": [
+    "gulp",
+    "automation",
+    "template",
+    "html",
+    "css",
+    "sass",
+    "javascript"
+  ],
+  "author": "Liam Alexander Yaphockun",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/code-warrior/final-project--intro-to-internet-programming--cs-275--fall-2021/issues"
+  },
+  "homepage": "https://github.com/code-warrior/final-project--intro-to-internet-programming--cs-275--fall-2021/blob/liam-alexander-yaphockun--yaphartford/README.md",
+  "devDependencies": {
+    "@babel/core": "^7.2.2",
+    "@babel/preset-env": "^7.3.1",
+    "babel-core": "^6.26.3",
+    "babel-preset-env": "^1.7.0",
+    "browser-sync": "^2.26.3",
+    "del": "^3.0.0",
+    "gulp": "^4.0.0",
+    "gulp-babel": "^8.0.0",
+    "gulp-cache": "^1.1.1",
+    "gulp-eslint": "^5.0.0",
+    "gulp-html": "^0.5.0",
+    "gulp-htmlmin": "^5.0.1",
+    "gulp-stylelint": "^13.0.0",
+    "gulp-imagemin": "^5.0.3",
+    "gulp-uglify": "^3.0.1",
+    "gulp-uglifycss": "^1.1.0",
+    "stylelint": "^14.0.1"
+  }
+}
